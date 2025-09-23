@@ -27,10 +27,10 @@ Hello World! nya~
 
 ### Tech Stack
 
-![Vue](README.assets/Vue.svg)![React](README.assets/React.svg)![Next](README.assets/Next.svg)![PyTorch](README.assets/PyTorch.svg)![NET](README.assets/NET.svg)
+![Vue](README.assets/Vue.svg)&nbsp;![React](README.assets/React.svg)&nbsp;![Next](README.assets/Next.svg)&nbsp;![PyTorch](README.assets/PyTorch.svg)&nbsp;![NET](README.assets/NET.svg)
 
 with
 
-![JavaScript](README.assets/JavaScript.svg)![HTML5](README.assets/HTML5.svg)![CSS](README.assets/CSS.svg)![TypeScript](README.assets/TypeScript.svg)![Python](README.assets/Python.svg)![C](README.assets/C.svg)![C++](README.assets/C++.svg)
+![JavaScript](README.assets/JavaScript.svg)&nbsp;![HTML5](README.assets/HTML5.svg)&nbsp;![CSS](README.assets/CSS.svg)&nbsp;![TypeScript](README.assets/TypeScript.svg)&nbsp;![Python](README.assets/Python.svg)&nbsp;![C](README.assets/C.svg)&nbsp;![C++](README.assets/C++.svg)
 
 and more...
