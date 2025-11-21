@@ -3,7 +3,7 @@
 ```
 Hello World! nya~
 ```
-
+<link rel="stylesheet" href="style.css">
 <div class="container">
     <div class="main">
         <h3>Whoami</h3>
@@ -36,18 +36,6 @@ Hello World! nya~
         <img alt="animated image (?)" src="README.assets/img1.gif">
     </div>
 </div>
-<style lang="css">
-    .container {
-        display: flex;
-        flex-direction: row;
-    }
-    .main {
-        flex: 3;
-    }
-    .img {
-        flex: 1;
-    }
-</style>
 
 
 <!--
