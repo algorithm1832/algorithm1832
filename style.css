@@ -1,10 +1,13 @@
 .container {
-    display: flex;
-    flex-direction: row;
+    display: block;
 }
 .main {
-    flex: 3;
+    float: left;
 }
 .img {
-    flex: 1;
+    position: absolute;
+    top: 15rem;
+    right: 0px;
+    float: right;
+    height: 20rem;
 }
