@@ -4,6 +4,9 @@
 Hello World! nya~
 ```
 
+<div style="display: flex;">
+<div style="flex: 3;">
+
 ### Whoami
 
 - A student proceeding for a master's degree at School of Software Technology, Zhejiang University
@@ -19,6 +22,15 @@ with
 ![JavaScript](README.assets/JavaScript.svg)&nbsp;![HTML5](README.assets/HTML5.svg)&nbsp;![CSS](README.assets/CSS.svg)&nbsp;![TypeScript](README.assets/TypeScript.svg)&nbsp;![Python](README.assets/Python.svg)&nbsp;![C](README.assets/C.svg)&nbsp;![C++](README.assets/C++.svg)
 
 and more...
+
+</div>
+<div style="flex: 1;">
+
+![animated image (?)](README.assets/img1.gif)
+
+</div>
+</div>
+
 
 <!--
 **algorithm1832/algorithm1832** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
