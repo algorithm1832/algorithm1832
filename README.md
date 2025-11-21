@@ -1,11 +1,8 @@
-## Hello there and I am ALGO1832
-
-```
-Hello World! nya~
-```
 <link rel="stylesheet" href="style.css">
 <div class="container">
     <div class="main">
+        <h2>Hello there and I am ALGO1832</h2>
+        <pre class="code">Hello World! nya~</pre>
         <h3>Whoami</h3>
         <ul>
             <li>A student proceeding for a master's degree at School of Software Technology, Zhejiang University</li>

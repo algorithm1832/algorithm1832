@@ -6,8 +6,11 @@
 }
 .img {
     position: absolute;
-    top: 15rem;
+    top: 10rem;
     right: 0px;
     float: right;
     height: 20rem;
+}
+.code {
+    font-family: 'Consolas', 'Courier New', 'Courier', monospace;
 }
