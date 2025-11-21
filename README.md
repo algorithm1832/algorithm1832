@@ -4,31 +4,37 @@
 Hello World! nya~
 ```
 
-<div style="display: flex;">
-<div style="flex: 3;">
-
-### Whoami
-
-- A student proceeding for a master's degree at School of Software Technology, Zhejiang University
-- A frontend developer seeking changes and trying out new things
-- A learner in the field of AI
-
-### Tech Stack
-
-![Vue](README.assets/Vue.svg)&nbsp;![React](README.assets/React.svg)&nbsp;![Next](README.assets/Next.svg)&nbsp;![PyTorch](README.assets/PyTorch.svg)&nbsp;![NET](README.assets/NET.svg)
-
-with
-
-![JavaScript](README.assets/JavaScript.svg)&nbsp;![HTML5](README.assets/HTML5.svg)&nbsp;![CSS](README.assets/CSS.svg)&nbsp;![TypeScript](README.assets/TypeScript.svg)&nbsp;![Python](README.assets/Python.svg)&nbsp;![C](README.assets/C.svg)&nbsp;![C++](README.assets/C++.svg)
-
-and more...
-
-</div>
-<div style="flex: 1;">
-
-
-
-</div>
+<div style="display: flex; flex-direction: row;">
+    <div style="flex: 3;">
+        <h3>Whoami</h3>
+        <ul>
+            <li>A student proceeding for a master's degree at School of Software Technology, Zhejiang University</li>
+            <li>A frontend developer seeking changes and trying out new things</li>
+            <li>A learner in the field of AI</li>
+        </ul>
+        <h3>Tech Stack</h3>
+        <p>
+            <img alt="Vue" src="README.assets/Vue.svg">&nbsp;
+            <img alt="React" src="README.assets/React.svg">&nbsp;
+            <img alt="Next" src="README.assets/Next.svg">&nbsp;
+            <img alt="PyTorch" src="README.assets/PyTorch.svg">&nbsp;
+            <img alt="NET" src="README.assets/NET.svg">
+        </p>
+        <p>with</p>
+        <p>
+            <img alt="JavaScript" src="README.assets/JavaScript.svg">&nbsp;
+            <img alt="HTML5" src="README.assets/HTML5.svg">&nbsp;
+            <img alt="CSS" src="README.assets/CSS.svg">&nbsp;
+            <img alt="TypeScript" src="README.assets/TypeScript.svg">&nbsp;
+            <img alt="Python" src="README.assets/Python.svg">&nbsp;
+            <img alt="C" src="README.assets/C.svg">&nbsp;
+            <img alt="C++" src="README.assets/C++.svg">&nbsp;
+        </p>
+        <p>and more...</p>
+    </div>
+    <div style="flex: 1;">
+        <img alt="animated image (?)" src="README.assets/img1.gif">
+    </div>
 </div>
 
 
