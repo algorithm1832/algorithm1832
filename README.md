@@ -4,8 +4,8 @@
 Hello World! nya~
 ```
 
-<div style="display: flex; flex-direction: row;">
-    <div style="flex: 3;">
+<div class="container">
+    <div class="main">
         <h3>Whoami</h3>
         <ul>
             <li>A student proceeding for a master's degree at School of Software Technology, Zhejiang University</li>
@@ -32,10 +32,22 @@ Hello World! nya~
         </p>
         <p>and more...</p>
     </div>
-    <div style="flex: 1;">
+    <div class="img">
         <img alt="animated image (?)" src="README.assets/img1.gif">
     </div>
 </div>
+<style lang="css">
+    .container {
+        display: flex;
+        flex-direction: row;
+    }
+    .main {
+        flex: 3;
+    }
+    .img {
+        flex: 1;
+    }
+</style>
 
 
 <!--
