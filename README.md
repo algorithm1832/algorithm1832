@@ -26,7 +26,7 @@ and more...
 </div>
 <div style="flex: 1;">
 
-![animated image (?)](README.assets/img1.gif)
+
 
 </div>
 </div>
